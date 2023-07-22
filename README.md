@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manohar Jilla</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h1 align="center">Hi 👋, I'm Manohar</h1>
+<h3 align="center">A passionate individual with a diverse skill set and a strong interest in technology and programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar0811&label=Profile%20views&color=0e75b6&style=flat" alt="manohar0811" /> </p>
 
