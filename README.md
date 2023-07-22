@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/manohar jilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar jilla" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/manohar-jilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar jilla" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/manohar_yadav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manohar_yadav._" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/manohar_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manohar_08" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.leetcode.com/manohar_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manohar_08" height="30" width="40" /></a>
