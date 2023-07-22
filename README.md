@@ -1,37 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Portfolio</title>
-  <!-- Include Font Awesome stylesheet -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
-  <h1>Hello, I'm [Your Name]!</h1>
+<h1 align="center">Hi 👋, I'm Manohar Jilla</h1>
+<h3 align="center">A passionate Android developer</h3>
 
-  <h2>Skills</h2>
-  <ul>
-    <li><i class="fas fa-code"></i> Languages: [List of programming languages you are proficient in]</li>
-    <li><i class="fas fa-laptop-code"></i> Web Dev: [Frameworks, libraries, or tools you use]</li>
-    <li><i class="fas fa-mobile-alt"></i> Mobile: [Platforms and tools for app development]</li>
-    <li><i class="fas fa-robot"></i> ML: [Libraries or frameworks for machine learning]</li>
-    <li><i class="fas fa-database"></i> DB: [Database systems you are familiar with]</li>
-    <li><i class="fas fa-tools"></i> Tools: [Other relevant tools or technologies]</li>
-  </ul>
+- 📫 How to reach me **manoharyadav81101@gmail.com**
 
-  <h2>Projects</h2>
-  <ul>
-    <li><a href="link-to-project1"><i class="fas fa-folder"></i> Project 1</a>: Brief description.</li>
-    <li><a href="link-to-project2"><i class="fas fa-folder"></i> Project 2</a>: Brief description.</li>
-    <li><a href="link-to-project3"><i class="fas fa-folder"></i> Project 3</a>: Brief description.</li>
-  </ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/manohar jilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar jilla" height="30" width="40" /></a>
+<a href="https://instagram.com/manohar_yadav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manohar_yadav._" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manohar_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manohar_08" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manohar_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manohar_08" height="30" width="40" /></a>
+</p>
 
-  <h2>Connect</h2>
-  <ul>
-    <li><a href="https://twitter.com/YourTwitterHandle"><i class="fab fa-twitter"></i> Twitter</a></li>
-    <li><a href="https://www.linkedin.com/in/yourprofile/"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
-  </ul>
-
-  <!-- Include Font Awesome script -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"></script>
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
