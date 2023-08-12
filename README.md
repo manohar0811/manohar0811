@@ -7,7 +7,7 @@ Profile Views: [![Profile Views](https://komarev.com/ghpvc/?username=manohar0811
 
 ## Connect with me:
 
-- LinkedIn: [manohar jilla](https://linkedin.com/in/manohar%20jilla)
+- LinkedIn: [manohar jilla](www.linkedin.com/in/manohar-jilla)
 - Instagram: [manohar_yadav._](https://instagram.com/manohar_yadav._)
 - HackerRank: [manohar_08](https://www.hackerrank.com/manohar_08)
 - LeetCode: [manohar_08](https://www.leetcode.com/manohar_08)
