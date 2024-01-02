@@ -1,7 +1,7 @@
 # Hi 👋, I'm Manohar
 ### A passionate individual with a diverse skill set and a strong interest in technology and programming
 
-Profile Views: [![Profile Views](https://komarev.com/ghpvc/?username=manohar0811&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/manohar0811)
+
 
 - 📫 How to reach me **manoharyadav81101@gmail.com**
 
