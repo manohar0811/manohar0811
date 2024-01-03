@@ -15,9 +15,9 @@
 ## Languages and Tools:
 
 - Android
-- C
-- Firebase
 - Java
+- Firebase
 - Kotlin
-- MySQL
+- SQL
 - Python
+- C++
