@@ -14,10 +14,8 @@
 
 ## Languages and Tools:
 
-- Android
+- Android development 
 - Java
-- Firebase
-- Kotlin
 - SQL
 - Python
-- C++
+
